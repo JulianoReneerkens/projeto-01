@@ -45,12 +45,12 @@ header > p {
     font-family: var(--font-padrao);
     font-size: 1,2em;
     max-width: 500px;
+    padding-bottom: 50px;
     padding-right: 10px;
     padding-left: 10px;
     margin: auto;
-    font-weight: normal
-    text-shadow: 2px 2px 0px black;
-    padding-bottom: 37px;
+    font-weight: normal;
+    
    
 }
 
