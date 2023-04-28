@@ -49,6 +49,8 @@ header > p {
     padding-left: 10px;
     margin: auto;
     font-weight: normal
+    text-shadow: 2px 2px 0px black;
+    padding-bottom: 37px;
    
 }
 
